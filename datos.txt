@@ -1,0 +1,3 @@
+para el backend 
+si hago un cambio se aplica tsc
+y luego se levanta el servidor con nodemon dist/index
